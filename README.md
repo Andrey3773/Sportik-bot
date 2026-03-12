@@ -1,2 +1,2 @@
-# Sportil-bot
+# Sportik-bot
 Bot for training acoounting
